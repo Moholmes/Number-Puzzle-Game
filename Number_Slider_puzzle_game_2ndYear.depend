@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544383690 source:c:\users\nabil\desktop\information system\mysecondyear\firstsemester\data_structure_and_and_algorithim\assignment\number_slider_puzzle_game_2ndyear_2018-12-14\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
